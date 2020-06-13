@@ -1,5 +1,6 @@
 {
   "presets": [
-    "@babel/preset-env" // ES6语法解析成ES5语法
+    "@babel/preset-env", // ES6语法解析成ES5语法
+    "@babel/preset-react"
   ]
 }
